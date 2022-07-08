@@ -71,3 +71,8 @@ div.text a:hover {
     text-decoration: underline;
   }
 }
+
+.active {
+  color: red;
+  font-weight: bold;
+}
